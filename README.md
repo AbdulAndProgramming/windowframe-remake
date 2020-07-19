@@ -11,7 +11,7 @@ To build the game:
 
 ## Other Information
 
-Oringinal Game: https://managore.itch.io/windowframe \n
-Creator's Youtube: https://www.youtube.com/channel/UCeawXhQYjMlNk-qrAxWkfQg \n
-Creator's Twitter: https://www.twitter.com/midnadimple \n
+Oringinal Game: https://managore.itch.io/windowframe 
+Creator's Youtube: https://www.youtube.com/channel/UCeawXhQYjMlNk-qrAxWkfQg 
+Creator's Twitter: https://www.twitter.com/midnadimple 
 Creator's Instagram: https://www.instagram.com/abdulandprogramming
